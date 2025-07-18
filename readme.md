@@ -26,6 +26,7 @@ All downloaded MP3 files are saved in the `exports/` folder, with filenames pref
 - `ffmpeg` installed locally
 - Required Python package:
 
+---
 
 ## Install it:
 
